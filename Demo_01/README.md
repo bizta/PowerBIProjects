@@ -1,5 +1,5 @@
 # DEMO 01
-This is a demo Power BI project for sales office.
+This is a demo Power BI project for a sales office.
 
 The models here are
 a) Sales
