@@ -2,10 +2,10 @@
 This is a demo Power BI project for a sales office.
 
 The models here are
-a) Sales
-b) Customers
-c) Products
-d) Stores
+1) Sales
+2) Customers
+3) Products
+4) Stores
 
 I have created a seperate tables for all the measure, i.e, **_Measures**
 
